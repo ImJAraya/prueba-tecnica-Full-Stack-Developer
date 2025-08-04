@@ -61,7 +61,7 @@ STATIC_URL = '/static/'
 
 # CORS
 CORS_ALLOWED_ORIGINS = [
-    "https://tu-frontend.vercel.app", 
+    "https://prueba-tecnica-full-stack-developer.vercel.app", 
     "http://localhost:3000",
 ]
 
